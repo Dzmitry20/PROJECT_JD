@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println(new UserRepositoryImpl().getUserExpensiveCarPrice(4));
-        System.out.println(new CarRepositoryImpl().findAll());
+//        System.out.println(new CarRepositoryImpl().findAll());
 
     }
 }
